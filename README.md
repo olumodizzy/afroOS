@@ -1,9 +1,4 @@
 # afroOS
-Sure! Here's a professional and meaningful `README.md` for your GitHub repository **"afroOS"**, highlighting the mission, technology, and contribution guidelines:
-
----
-
-# afroOS
 
 **An Operating System for Africans, by Africans.**
 
